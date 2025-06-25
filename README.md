@@ -34,7 +34,7 @@
 ## 🧠 Prompt 2
 
 ```
-Next prompt2 text...
+
 ```
 
 ![Prompt 2 Preview](https://your-image-url-2.com)
@@ -44,7 +44,7 @@ Next prompt2 text...
 ## 🧠 Prompt 3
 
 ```
-Another prompt3 text...
+
 ```
 
 ![Prompt 3 Preview](https://your-image-url-3.com)

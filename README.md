@@ -16,17 +16,18 @@
 
 <br>
 
-# 🎨 Prompt Gallery
+# 🎨 Prompts
 
 ---
 
 ## 🧠 Prompt 1
 
 ```
-dodfhnkdffndf text...
+  
 ```
 
-![Prompt 1 Preview](https://your-image-url-1.com)
+![Prompt 1 Preview](![2](https://github.com/user-attachments/assets/a82190ea-f986-443a-aace-6278eb929452)
+)
 
 ---
 

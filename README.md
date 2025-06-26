@@ -23,7 +23,25 @@
 ## 🧠 Prompt 1
 
 ```
-  
+  1) Tell me about Yourself
+2) what is HTML
+3) Sematic
+4) DIV AND SPAN
+5) Doctype
+6) Head tag usage ?
+7) What is CSS
+8) What is display flex
+9) what is block inline and inline block
+10)  pseudo selector
+11) Media queries
+12) what is javascript
+13) Dom manupulation
+14) var let const
+15) Data types 
+16) Array and Object
+17) Ajax
+18)callback
+19) Promises
 ```
 
 ![Prompt 1 Preview](![2](https://github.com/user-attachments/assets/a82190ea-f986-443a-aace-6278eb929452)
